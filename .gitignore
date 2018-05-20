@@ -1,0 +1,15 @@
+# Bad babby
+*.so *.exe *.dll
+
+# Godot-specific ignores
+.import/
+*.import
+export.cfg
+export_presets.cfg
+
+# Mono-specific ignores
+.mono/
+
+# System/tool-specific ignores
+.directory
+*~
